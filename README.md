@@ -1,8 +1,12 @@
 # ML REPA MeetUps: slides and materials  
+![ml-repa-logo](./logo-1-w100.png)
 
  Материалы, презентации и ссылки на видео по прошедшим митапам ML REPA. 
- Подбробнее о митапах и анонсы на сайте http://ml-repa.ru/ 
+ Подбробнее о митапах, материалы и новости 
+ - на сайте [ml-repa.ru](http://ml-repa.ru/) 
+ - в телеграм-канале [t.me/mlrepa](https://t.me/mlrepa)  
 
+Митапы:
 * [Meetup 1: Reproducible ML experiments](#meetup-1-reproducible-ml-experiments)
 * [Meetup 2: Data and Models Version control in Computer Vision](#meetup-2-data-and-models-version-control-in-computer-vision)
 * [Meetup 3: Machine Learning Reproducibility, Experiments, and Pipelines Automation for NLP](#meetup-3-machine-learning-reproducibility-experiments-and-pipelines-automation-for-nlp)
