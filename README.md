@@ -12,17 +12,17 @@
 О важности воспроизводимости в Machine Learning.
 Примеры, демонстрация инструментов, реальных проблем и кейсов. Для DS, DE и бизнеса
 
-[Slides]() / 
+[Slides](/Meetup-1-Reproducible-ML-experiments) 
 [Video]() / 
-[Program]() 
+[Program](http://ml-repa.ru/page6697700.html) 
 
 ### Meetup 2: Data and Models Version control in Computer Vision
 15 августа 2019, 18:30 - 21:00
 
 О пайплайнах, воспроизводимости, контроле версий данных и моделей в компьютерном зрении
-[Slides]()
+[Slides](/Meetup-2-Data-and-Models-Version-control-Computer-Vision)
 [Video]()
-[Program]()
+[Program](https://ml-repa.ru/meetup-2-computer-vision)
 
 ### Meetup 3: Machine Learning Reproducibility, Experiments, and Pipelines Automation for NLP
 
@@ -31,7 +31,7 @@
 This is a practical meetup for machine learning (ML) practitioners, team leads, data scientists and ML projects managers. 
 Benchmark of approaches to NLP pipelines automation: AI plays words games 
 
-[Slides]()
+[Slides](/Meetup-3-Reproducibility-Experiments-and-Pipelines-Automation-NLP)
  
 [Video]()
  
@@ -44,6 +44,6 @@ Benchmark of approaches to NLP pipelines automation: AI plays words games
 
 О подходах к построению процесса автоматического обучения моделей машинного обучения
 
-[Slides]()
+[Slides](/Meetup-4-Towards-fully-automated-training-pipelines)
 [Video]()
-[Program]()
+[Program](https://ml-repa.ru/meetup-4-automl-train)
