@@ -51,7 +51,7 @@
 [Program](https://ml-repa.ru/meetup-3-nlp-amsterdam)
 
 
-##Meetup 4: Towards fully automated training pipelines in Machine Learning
+## Meetup 4: Towards fully automated training pipelines in Machine Learning
 
 О подходах к построению процесса автоматического обучения моделей машинного обучения. 
 Опыт построения пайпланов для мониторинга и обновления моделей в продуктиве. И снова про NLP пайпланы (выжимка из презентаций митапа 3).
