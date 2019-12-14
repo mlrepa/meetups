@@ -3,47 +3,67 @@
  Материалы, презентации и ссылки на видео по прошедшим митапам ML REPA. 
  Подбробнее о митапах и анонсы на сайте http://ml-repa.ru/ 
 
+* [Meetup 1: Reproducible ML experiments](#meetup-1-reproducible-ml-experiments)
+* [Meetup 2: Data and Models Version control in Computer Vision](#meetup-2-data-and-models-version-control-in-computer-vision)
+* [Meetup 3: Machine Learning Reproducibility, Experiments, and Pipelines Automation for NLP](#meetup-3-machine-learning-reproducibility-experiments-and-pipelines-automation-for-nlp)
+* [Meetup 4: Towards fully automated training pipelines in Machine Learning](#meetup-4-towards-fully-automated-training-pipelines-in-machine-learning)
 
-# Table of Contents
 
-### Meetup 1: Reproducible ML experiments
-18 июня 2019, 18:30 - 21:00
+## Meetup 1 - Reproducible ML experiments
 
-О важности воспроизводимости в Machine Learning.
-Примеры, демонстрация инструментов, реальных проблем и кейсов. Для DS, DE и бизнеса
+Наш первый митап! О важности воспроизводимости в Machine Learning.
+Примеры, демонстрация инструментов, реальных проблем и кейсов. Полезные подходы и инструменты для Data Scientists, Data Engineers и Product/Project Managers.
 
-[Slides](/Meetup-1-Reproducible-ML-experiments) 
-[Video]() / 
+
+[Slides](/Meetup-1-Reproducible-ML-experiments)
+- Эмели Драль - ML-based services for manufacturing: from reproducibility to automation
+- Роман Тезиков - Reproducibility in CV. Overview
+- Михаил Рожков -  Workshop: DVC для автоматизации ML экспериментов и версионирования данных
+ 
+[Video](https://youtu.be/6r4FjdXxQzU?t=261)
+
 [Program](http://ml-repa.ru/page6697700.html) 
 
-### Meetup 2: Data and Models Version control in Computer Vision
-15 августа 2019, 18:30 - 21:00
+## Meetup 2: Data and Models Version control in Computer Vision
 
-О пайплайнах, воспроизводимости, контроле версий данных и моделей в компьютерном зрении
+О пайплайнах, воспроизводимости, контроле версий данных и моделей в компьютерном зрении. 
+Как версионировать модели и данные в Computer Vision? Какие особенности и сложности с воспроизводимостью в Computer Vision?
+
 [Slides](/Meetup-2-Data-and-Models-Version-control-Computer-Vision)
-[Video]()
+- Влад Грозин - MLFlow для обеспечения воспроизводимости экспериментов
+- Роман Тезиков - Wokrshop: Dive into Catalyst
+- Дмитрий Никулин - Experiment management in research: case study
+
+[Video](https://youtu.be/SGawkIjBoGE?t=276)
+
 [Program](https://ml-repa.ru/meetup-2-computer-vision)
 
-### Meetup 3: Machine Learning Reproducibility, Experiments, and Pipelines Automation for NLP
+## Meetup 3: Machine Learning Reproducibility, Experiments, and Pipelines Automation for NLP
 
-14 October 2019, Amsterdam
-
-This is a practical meetup for machine learning (ML) practitioners, team leads, data scientists and ML projects managers. 
-Benchmark of approaches to NLP pipelines automation: AI plays words games 
+Кейс про пайплайны и эксперименты в NLP. Сравненеи подходов DVC, MlFlow и Kubeflow.
+Подходы в управлению командами и проектами в Data Science. Отдельно про то, как можно оценить потери от неэффективности и зачем нам автоматизация.
 
 [Slides](/Meetup-3-Reproducibility-Experiments-and-Pipelines-Automation-NLP)
- 
-[Video]()
+- Михаил Рожков - ML experiments management, pipelines automation and reproducibility: with DVC and MLFlow
+- Михаил Рожков - ML teams and projects management: potential for cost optimization
+- Михаил Рожков - Benchmark of approaches to NLP pipelines automation: AI plays words games
  
 [Program](https://ml-repa.ru/meetup-3-nlp-amsterdam)
 
 
-### Meetup 4: Towards fully automated training pipelines in Machine Learning
-24 октября 2019, Москва
-МегаФон, Оружейный переулок 41
+##Meetup 4: Towards fully automated training pipelines in Machine Learning
 
-О подходах к построению процесса автоматического обучения моделей машинного обучения
+О подходах к построению процесса автоматического обучения моделей машинного обучения. 
+Опыт построения пайпланов для мониторинга и обновления моделей в продуктиве. И снова про NLP пайпланы (выжимка из презентаций митапа 3).
+Использование Apache Airflow в пайплайнах
 
 [Slides](/Meetup-4-Towards-fully-automated-training-pipelines)
-[Video]()
+- Артем Селезнев - Держим тонус моделей в продуктиве
+- Михаил Рожков - NLP games и автоматизация пайплайнов с Kubeflow
+- Петр Ермаков - Apache Airflow: семь раз примерь, один раз зашедуль
+
+[Video-1](https://youtu.be/B3SH2SF5L3o?t=647)
+
+[Video-2](https://youtu.be/6VXkNm_U0Uw?t=138)
+
 [Program](https://ml-repa.ru/meetup-4-automl-train)
