@@ -1,10 +1,13 @@
-# ML REPA MeetUps: slides and materials  
-![ml-repa-logo](./logo-1-w100.png)
+# ML REPA MeetUps: slides and materials
+<img src="logo_repa.svg" alt="ml-repa-logo" width="150px">
 
- Материалы, презентации и ссылки на видео по прошедшим митапам ML REPA. 
- Подбробнее о митапах, материалы и новости 
- - на сайте [ml-repa.ru](http://ml-repa.ru/) 
- - в телеграм-канале [t.me/mlrepa](https://t.me/mlrepa)  
+[![Site](https://img.shields.io/badge/ml--repa-site-brightgreen)](http://ml-repa.ru/) 
+[![Telegram](https://img.shields.io/badge/ml--repa-on%20telegram-blue)](https://t.me/mlrepa)
+
+ Материалы, презентации и ссылки на видео по прошедшим митапам ML REPA.
+ Подбробнее о митапах, материалы и новости
+ - на сайте [ml-repa.ru](http://ml-repa.ru/)
+ - в телеграм-канале [t.me/mlrepa](https://t.me/mlrepa)
 
 Митапы:
 * [Meetup 1: Reproducible ML experiments](#meetup-1-reproducible-ml-experiments)
@@ -23,7 +26,7 @@
 - Эмели Драль - ML-based services for manufacturing: from reproducibility to automation
 - Роман Тезиков - Reproducibility in CV. Overview
 - Михаил Рожков -  Workshop: DVC для автоматизации ML экспериментов и версионирования данных
- 
+
 [Video](https://youtu.be/6r4FjdXxQzU?t=261)
 
 [Program](http://ml-repa.ru/page6697700.html) 
@@ -51,13 +54,13 @@
 - Михаил Рожков - ML experiments management, pipelines automation and reproducibility: with DVC and MLFlow
 - Михаил Рожков - ML teams and projects management: potential for cost optimization
 - Михаил Рожков - Benchmark of approaches to NLP pipelines automation: AI plays words games
- 
+
 [Program](https://ml-repa.ru/meetup-3-nlp-amsterdam)
 
 
 ## Meetup 4: Towards fully automated training pipelines in Machine Learning
 
-О подходах к построению процесса автоматического обучения моделей машинного обучения. 
+О подходах к построению процесса автоматического обучения моделей машинного обучения.
 Опыт построения пайпланов для мониторинга и обновления моделей в продуктиве. И снова про NLP пайпланы (выжимка из презентаций митапа 3).
 Использование Apache Airflow в пайплайнах
 
